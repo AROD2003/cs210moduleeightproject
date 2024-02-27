@@ -15,5 +15,5 @@ QUESTIONS
 • What skills from this project will be particularly transferable to other projects or course work?
 	- Skills I learned from this project was how to use for loops to help me calculate the compound interest. 
 • How did you make this program maintainable, readable, and adaptable?
-	\n- I broke it down into two main things that I needed to do. Calculate interest without monthly deposits, and with monthly deposits. Then, from there I made the equations and the rest was easy, such as getting user input and printing to the screen.
+	- I broke it down into two main things that I needed to do. Calculate interest without monthly deposits, and with monthly deposits. Then, from there I made the equations and the rest was easy, such as getting user input and printing to the screen.
 
